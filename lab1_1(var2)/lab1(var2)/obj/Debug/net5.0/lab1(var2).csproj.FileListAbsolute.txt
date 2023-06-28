@@ -1,0 +1,16 @@
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\bin\Debug\net5.0\lab1(var2).exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\bin\Debug\net5.0\lab1(var2).deps.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\bin\Debug\net5.0\lab1(var2).runtimeconfig.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\bin\Debug\net5.0\lab1(var2).runtimeconfig.dev.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\bin\Debug\net5.0\lab1(var2).dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\bin\Debug\net5.0\lab1(var2).pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\lab1(var2).csproj.AssemblyReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\lab1(var2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\lab1(var2).AssemblyInfoInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\lab1(var2).AssemblyInfo.cs
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\lab1(var2).csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\lab1(var2).dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\refint\lab1(var2).dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\lab1(var2).pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\lab1(var2).genruntimeconfig.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab1(var2)\lab1(var2)\obj\Debug\net5.0\ref\lab1(var2).dll
